@@ -10,9 +10,10 @@ In this resource you can fish fishes. This resource is for ESX.
 4. Add line in the bottom of esx and es "start esx_fishing"
 5. Restart your server
 
-Status: Work In Progress
+# Status
+Work In Progress
 
-List To Do:
+# List To Do:
 1. Create the marker
 2. Create the config
 3. Create sql file
